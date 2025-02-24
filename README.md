@@ -2,6 +2,7 @@
 
 Gros changement pour le test du conflit 
 Ceci n'est pas un conflit !!
+Test Theirs
 
 Application web pour covoiturage. 
 
