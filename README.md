@@ -2,7 +2,8 @@
 
 Gros changement pour le test du conflit 
 Ceci n'est pas un conflit !!
-Test no3
+
+Test no3 En fait c'est une blague !!
 
 Application web pour covoiturage. 
 
